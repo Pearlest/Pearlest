@@ -1,0 +1,50 @@
+.title{
+    font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #064789;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+body{
+    background-color: #EBF2FA;        
+}
+
+.pfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 256px;
+    width: 256px;
+    margin-top: 25px;
+    border-radius: 50%;
+}
+
+.thing{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;    
+    color: #427AA1;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.icon{
+    text-align: center;
+    display: inline-block;
+    margin-left: 49%;
+    font-size: 20px;
+    color: #427AA1;
+}
+
+.icon2{
+    margin-left: 1%;
+    font-size: 20px;
+    color: #427AA1;
+}
+
+.icon:hover{
+    color:#064789 !important;
+}
+
+.icon2:hover{
+    color:#064789 !important;
+}
